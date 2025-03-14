@@ -5,7 +5,7 @@ import { os } from "./sideBar/os";
 import { algorithm } from "./sideBar/algorithm";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base:"/makeFriends/",
+  base:"/makeFriend/",
   title: "和我交个朋友吧😊",
   // description: "A VitePress Site to show myBlog.",
   themeConfig: {
